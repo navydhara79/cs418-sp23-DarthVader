@@ -3,4 +3,8 @@ Repository for committing updates and progress of course project for CS418. The 
 
 Team: Navyadhara Gogineni, Sandeep 
 
-Project:  Earthquake damage prediction
+Project:  Earthquake damage analysis and prediction
+
+Dataset: 2015 nepal open portal dataset
+
+
